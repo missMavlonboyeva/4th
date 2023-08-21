@@ -1,0 +1,58 @@
+body{
+background: black;
+}
+.card{
+width: 320px;
+height: 300px;
+background: #1d1d1d;
+border-radius: 10px;
+margin: auto;
+}
+.photo{
+width: 100px;
+height:100px;
+border-radius: 50%;
+object-fit: cover;
+display:block;
+/* display block deb utirmasdan otasi card ga text align center bersak boladi  faqat it is for all its children there */
+margin: auto;
+padding-top: 10px;
+}
+.name{
+color: white;
+text-align: center;
+font-size: 22px;
+font-family: sans-serif;
+}
+.username{
+text-align: center;
+color: grey;
+font-size: 14px;
+}
+.bio{
+color: white;
+text-align: center;
+}
+.btn{
+width: 150px;
+height: 40px;
+color: whitesmoke;
+background-color: lightseagreen;
+border-radius: 20px;
+border: none;
+display: block;
+margin: auto;
+}
+.btn:hover{
+    background:darkblue;
+    cursor: pointer;
+}
+.navbar{
+    width: 100%;
+    background: #1d1d1d;
+}
+.telegram{
+color: whitesmoke;
+font-size: 22px;
+
+}

@@ -1,0 +1,41 @@
+.box{
+width: 200px;
+height: 150px;
+background: pink;
+border: 2px dashed red;
+}
+.box:hover{
+    background: red         ;
+}
+.btn{
+width:120px;
+height: 36px;
+border: 1px solid dodgerblue;
+color: dodgerblue;
+background-color: white;
+border-radius: 6px;
+}
+.btn:hover{
+color: white;
+background-color: dodgerblue;
+cursor: pointer;
+}
+.rect{
+width: 400px;
+height: 400px;
+background-color: darkblue;
+display: block;
+margin: auto;
+}
+.rect:hover{
+    background-color: black;
+}
+.circle{
+width: 400px;
+height:400px;
+border-radius: 50%;
+background-color: dodgerblue;
+}
+.circle:hover{
+    background-color: blueviolet;
+}

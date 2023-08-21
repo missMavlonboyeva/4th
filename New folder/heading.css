@@ -1,0 +1,105 @@
+.huge{
+width: 1000px;
+height: 500px;
+background-color:lightgray;
+margin: auto;
+margin-top: 90px;
+display: flex;
+justify-content: space-between;
+padding: 30px;
+border-radius: 5px  ;
+}
+.component{
+width: 280px;
+height: 504px;
+    background-color:whitesmoke;
+margin-bottom:10px;
+border-radius:20px;
+}
+.comp2{
+width: 280px;
+height: 502px;
+    background-color:Whitesmoke;
+margin-bottom:10px;
+border-radius: 20px;
+}
+.comp3{
+width: 280px;
+height: 500px;
+    background-color:whitesmoke;
+margin-bottom:10px;
+border-radius: 20px;
+}
+.rasm{
+width: 280px;
+height: 200px;
+object-fit: cover;
+border-radius: 20px;
+}
+h2{
+text-align: center;
+font-family:sans-serif;
+color:#444;
+}
+p{
+    text-align: nter;
+color: #444;
+font-size: 18px 
+}
+span{
+color: #444;
+font-size: 18px 
+margin-left: 10 
+}
+h1{
+font-size: 20px;
+color: #444;
+font-weight: 100;
+text-align: center;
+}
+
+.main{
+width:400px;
+height:500px;
+background-color:darkorchid;
+margin: auto;
+padding: 40px;
+border-radius: 15px;
+}
+.inner{
+width:370px;
+height:495px;
+background-color: whitesmoke;
+margin: auto;
+padding-top: 20px;
+border-radius: 15px;
+}
+.photo{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+display: block;
+margin: auto;
+object-fit: cover;
+border: 3px solid darkorchid;
+}
+.pie{
+color: darkorchid;
+text-align: center;
+}
+.p{
+padding-left: 10px;
+padding-right: 10px;
+}
+.btn{
+width: 150px;
+height: 36px;
+border: 2px solid darkorchid;
+border-radius: 6px;
+margin-left:18px;
+}
+.btn:hover{
+background-color: darkorchid;
+color: white;
+cursor:pointer;
+}
